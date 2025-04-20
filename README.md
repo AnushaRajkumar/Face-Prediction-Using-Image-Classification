@@ -4,8 +4,6 @@
 Built an image classification model using OpenCV to recognize and classify sports celebrities from images.  <br/>
 The project aimed to train a system to automatically identify celebrities based on facial features using real-world image data. <br/> <br/>
 
-**Description: **<br/><br/>
-
 **Original Image:**<br/>
 
 ![alt text](https://github.com/AnushaRajkumar/Face-Prediction-Using-Image-Classification/blob/main/Face%20Prediction%20Screenshot%201.png) <br/>
